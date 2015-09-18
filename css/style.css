@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #85929E;
+}
+
+p {
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#description{
+	margin: auto;
+	text-align: center;
+	color: white;
+	padding-bottom: 10px;
+}
+
+ 
