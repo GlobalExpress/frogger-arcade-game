@@ -28,7 +28,7 @@ Enemy.prototype.update = function(dt) {
 Enemy.prototype.dimensions = function(){
 
    this.boxHeight = 60;
-   this.boxWidth = 60;
+   this.boxWidth = 70;
 };
 
 // Draw the enemy on the screen, required method for game. Within this prototype function an extra enemy is added when the score is equal to 2
@@ -66,7 +66,7 @@ Hero.prototype.update = function(dt){
 //Creates a box around the character for collision detection 
 Hero.prototype.dimensions = function(){
    this.boxHeight = 60;
-   this.boxWidth = 60;
+   this.boxWidth = 70;
 };
 
 //The Hero render function draws the character. The first 2 IF statements checks the boundaries.
