@@ -1,12 +1,11 @@
 body {
     text-align: center;
-    background-color: #85929E;
+    background-color: #85929e;
 }
 
 p {
 	text-align: center;
-	padding-left: 100px;
-	padding-right: 100px;
+	padding: 0px 100px 0px 100px;
 }
 
 #description{
